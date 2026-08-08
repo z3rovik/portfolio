@@ -1,6 +1,8 @@
 import Reveal from './Reveal'
 import { skills } from '../data/portfolio'
 
+const base = import.meta.env.BASE_URL
+
 export default function About() {
   return (
     <section id="about" className="section about">
@@ -26,7 +28,7 @@ export default function About() {
             in the browser — charts, portfolios, trackers and everything in between.
           </p>
 
-          <a href="/resume.pdf" target="_blank" rel="noreferrer" className="btn btn-primary">
+          <a href={`${base}resume.pdf`} target="_blank" rel="noreferrer" className="btn btn-primary">
             Download Resume
           </a>
         </Reveal>
