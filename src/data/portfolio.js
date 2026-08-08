@@ -41,7 +41,7 @@ export const skills = [
   'JavaScript',
   'UI/UX Design',
   'Crypto Knowledge',
-  'AI Prompting',
+  'Web Design',
   'TypeScript',
   'Tailwind CSS',
   'Data Visualization',

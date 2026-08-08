@@ -30,8 +30,9 @@ export default function Hero() {
 
         <Reveal delay={200}>
           <p className="hero-subtitle">
-            I build crypto applications using <span className="accent">AI</span> and{' '}
-            <span className="accent">React</span>
+            I build crypto applications with{' '}
+            <span className="accent">React</span> &amp; modern{' '}
+            <span className="accent">web design</span>
           </p>
         </Reveal>
 

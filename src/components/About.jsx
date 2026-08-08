@@ -19,9 +19,9 @@ export default function About() {
             landing page.
           </p>
           <p>
-            I specialize in building web apps with React and AI models like Claude and
-            DeepSeek, using them to accelerate design and development without
-            sacrificing quality.
+            I specialize in building fast, accessible and visually polished web
+            applications with React — from focused dashboards to complete
+            interactive interfaces.
           </p>
           <p>
             With a strong background in crypto, I enjoy bringing on-chain data to life
